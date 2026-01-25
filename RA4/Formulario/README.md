@@ -4,8 +4,6 @@
 Este proyecto consiste en un **formulario web de registro de estudiantes**, desarrollado como parte de las actividades del **Resultado de Aprendizaje 4 (RA4)**.  
 El formulario permite ingresar información básica de los estudiantes mediante campos estructurados y un diseño claro y funcional.
 
-El objetivo principal es aplicar los conocimientos de **HTML y CSS**, sin el uso de JavaScript, enfocándose en la estructura, el diseño y la presentación visual del formulario.
-
 ## 🧩 Funcionalidades
 - Campos para ingresar datos del estudiante
 - Diseño ordenado y fácil de usar
@@ -20,10 +18,12 @@ El objetivo principal es aplicar los conocimientos de **HTML y CSS**, sin el uso
 ## 🧰 Entorno de desarrollo
 - **Visual Studio Code (VS Code)**
 
-## 🎓 Contexto académico
-- **Asignatura:** Desarrollo Web  
-- **Resultado de Aprendizaje:** RA4  
-- **Curso:** 4to D  
+## 🎓 Contexto Académico
+- **Nivel:** Secundaria Técnico Profesional
+- **Módulo Formativo:** Desarrollo Web
+- **Curso / Sección:** 4to D
+- **Año escolar:** 2025-2026
+ 
 
 ## 👨‍💻 Autores
 - **Yoiser Cedano**
