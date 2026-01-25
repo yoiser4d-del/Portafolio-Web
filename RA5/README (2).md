@@ -21,7 +21,7 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 Aquí se pueden observar el proyecto hecho:
 
 ### Pagina de Universidad!
-![The Weekend University](Image/Javascrpit.png)
+![The Weekend University](páginajava/pxfuel.jpg)
 
 
 - **Nivel:** Secundaria Técnico Profesional
