@@ -21,7 +21,8 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 Aquí se pueden observar el proyecto hecho:
 
 ### Pagina de Universidad!
-![Vista del proyecto](páginajava/pxfuel.jpg)
+![Vista del proyecto](RA5/páginajava/pxfuel.jpg)
+
 
 
 
