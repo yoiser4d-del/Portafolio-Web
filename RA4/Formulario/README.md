@@ -15,6 +15,10 @@ El formulario permite ingresar información básica de los estudiantes mediante 
 - **HTML5** – Estructura del formulario
 - **CSS3** – Estilos y diseño visual
 
+- ## 🖼️ Imágenes de la ejecución del proyecto
+Aquí se pueden observar distintas secciones del sitio como:
+
+
 ## 🧰 Entorno de desarrollo
 - **Visual Studio Code (VS Code)**
 
