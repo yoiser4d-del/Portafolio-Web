@@ -12,7 +12,7 @@ PH Fast Food es un sitio web de hamburguesas donde se muestran distintos product
 - **Entorno de desarrollo (IDE):** Visual Studio Code  
 
 
-## 🖼️ Imágenes de la ejecución de los proyectos
+## 🖼️ Imágenes de la ejecución del proyecto
 Aquí se pueden observar distintas secciones del sitio como:
 
 ### Página de inicio
