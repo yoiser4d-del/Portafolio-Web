@@ -26,7 +26,7 @@ Aquí se pueden observar distintas secciones del sitio como:
 ![Pedidos](lasimagenesparagithub/Pedidos.png)
 
 ## Formulario con CSS
-![Formulario](lasimagenesparagithub/Formulario.png)
+![Formulario](lasimagenesparagithub/FormularioIMG.png)
 
 
 
