@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="Formulario.css">
+</head>
+<body>
+
+    <div class="container-form">
+        <form action="">
+
+            <h1>Formulario de estudiantes</h1>
+
+            <label for="Nombre">Nombre</label>
+            <input type="text" id="Nombre" required>
+
+            <label for="Direccion">Dirección</label>
+            <input type="text" id="Direccion" required>
+
+            <label for="telefono">Teléfono</label>
+<input 
+    type="tel" id="telefono" name="telefono" placeholder="809-000-0000" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+
+            <label for="Edad">Edad</label>
+            <input type="number" id="Edad" required>
+
+            <label for="Genero">Género</label>
+            <select id="Genero" name="Genero">
+                <option value="">Seleccione...</option>
+                <option value="masculino">Masculino</option>
+                <option value="femenino">Femenino</option>
+            </select>
+
+            <label for="Pasatiempo">Pasatiempo</label>
+            <input type="text" id="Pasatiempo" required>
+
+            <label>Carrera</label>
+
+            <div class="carrera">
+            <select name="Carrera" id="Carrera">
+    <option value="Informatica">Informática</option>
+    <option value="Enfermeria">Enfermería</option>
+    <option value="Gastronomia">Gastronomía</option>
+    <option value="Electricidad">Electricidad</option>
+    <option value="Contabilidad">Contabilidad</option>
+</select>
+
+<input type="radio" name="Curso" id="curso4" value="4to">
+<label for="curso4">4to</label><br>
+
+<input type="radio" name="Curso" id="curso5" value="5to">
+<label for="curso5">5to</label><br>
+
+<input type="radio" name="Curso" id="curso6" value="6to">
+<label for="curso6">6to</label>
+<br>
+
+            <label for="Correo">Correo</label>
+            <input type="email" id="Correo" required>
+
+            <button>Enviar</button>
+
+        </form>
+    </div>
+
+
+
+
+</body>
+</html>
