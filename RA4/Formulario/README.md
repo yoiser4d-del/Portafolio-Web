@@ -19,6 +19,9 @@ El formulario permite ingresar información básica de los estudiantes mediante 
 Aquí se pueden observar distintas secciones del sitio como:
 
 
+![FormularioIMG](FORMULARIOR/FormularioIMG.png)
+
+
 ## 🧰 Entorno de desarrollo
 - **Visual Studio Code (VS Code)**
 
