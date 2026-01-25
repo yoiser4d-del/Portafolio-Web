@@ -17,7 +17,7 @@ El formulario es una actividad basica con HTML  y CSS
 Aquí se pueden observar distintas secciones del sitio como:
 
 ### Página de inicio
-![Inicio](imagenes/lasimagenesparagithub/Inicio.png)
+![Inicio](lasimagenesparagithub/Inicio.png)
 
 ### Página de productos
 ![Productos](imagenes/lasimagenesparagithub/Productos.png)
