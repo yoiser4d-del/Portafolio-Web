@@ -4,7 +4,6 @@
 
 ## 📌 Descripción
 PH Fast Food es un sitio web de hamburguesas donde se muestran distintos productos con sus imágenes, precios y descripciones, diseñado de forma sencilla y atractiva para el usuario.
-El formulario es una actividad basica con HTML  y CSS 
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -24,11 +23,6 @@ Aquí se pueden observar distintas secciones del sitio como:
 
 ### Página de pedidos
 ![Pedidos](lasimagenesparagithub/Pedidos.png)
-
-## Formulario con CSS
-![Formulario](lasimagenesparagithub/FormularioIMG.png)
-
-
 
 
 
