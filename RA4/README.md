@@ -20,13 +20,13 @@ Aquí se pueden observar distintas secciones del sitio como:
 ![Inicio](lasimagenesparagithub/Inicio.png)
 
 ### Página de productos
-![Productos](imagenes/lasimagenesparagithub/Productos.png)
+![Productos](lasimagenesparagithub/Productos.png)
 
 ### Página de pedidos
-![Pedidos](imagenes/lasimagenesparagithub/Pedidos.png)
+![Pedidos](lasimagenesparagithub/Pedidos.png)
 
 ## Formulario con CSS
-![Formulario](imagenes/Formulario.png)
+![Formulario](lasimagenesparagithub/Formulario.png)
 
 
 
