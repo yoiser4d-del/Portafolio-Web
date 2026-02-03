@@ -51,7 +51,7 @@ Para visualizar el proyecto:
 ## 🎓 Contexto Académico
 - **Nivel:** Secundaria Técnico Profesional  
 - **Módulo Formativo:** Desarrollo Web  
-- **Resultado de Aprendizaje:** RA4  
+- **Resultado de Aprendizaje:** RA3  
 - **Curso / Sección:** 4to D  
 - **Año escolar:** 2025 - 2026  
 
