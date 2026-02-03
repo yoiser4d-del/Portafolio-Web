@@ -33,10 +33,10 @@ Dentro del menú de proyectos se pueden acceder a las siguientes actividades:
 A continuación se muestran algunas capturas del funcionamiento del sitio:
 
 ### Sección Sobre Mí con CSS
-![Sobre Mi](Imagenesdeuso/sobremi.png)
+![Sobre Mi](ACTIVIDAD/Imagenesdeuso/sobremi.png)
 
 ### Menú de Proyectos
-![Menu de Proyectos](Imagenesdeuso/menudeproyectos.png)
+![Menu de Proyectos](ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
 
 ---
 
