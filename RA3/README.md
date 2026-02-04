@@ -4,7 +4,7 @@
 
 ## 📌 Descripción
 Este proyecto corresponde al resultado del **RA3**, donde se desarrolló un sitio web personal utilizando **HTML y CSS**.  
-El sitio incluye una sección **Sobre Mí**, donde se presenta información personal básica, y un **Menú de Proyectos** que permite acceder a distintas actividades realizadas durante el módulo de Desarrollo Web.
+El sitio incluye una sección **Sobre Mí**, donde se presenta información personal básica, y un **Menú de Proyectos** que permite acceder a distintas actividades realizadas durante el módulo de Desarrollo Web.Aparte aqui estan las actividades de la tarea 1 del RA3 
 
 El diseño fue trabajado con estilos CSS para lograr una apariencia moderna, organizada y visualmente atractiva.
 
@@ -37,6 +37,20 @@ A continuación se muestran algunas capturas del funcionamiento del sitio:
 
 ### Menú de Proyectos
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
+
+### Ejericio 1
+
+###  Ejericio 2
+
+###  Ejericio 3
+
+###  Ejericio 4
+
+### Ejericio 5
+
+###  Ejericio 6
+
+
 
 ---
 
