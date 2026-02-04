@@ -34,10 +34,10 @@ Dentro del menú de proyectos se pueden acceder a las siguientes actividades:
 A continuación se muestran algunas capturas del funcionamiento del sitio:
 
 ### Sección Sobre Mí con CSS
-![Menu de Proyectos](RA3/ACTIVIDAD/menu.png)
+![Menu de Proyectos](RA3/ACTIVIDAD/sobremi.png)
 
 ### Menú de Proyectos
-![Menu de Proyectos](RA3/ACTIVIDAD/menu.png)
+![Menu de Proyectos](RA3/ACTIVIDAD/menudeproyectos.png)
 
 ### Ejercicio 1
 ![Menu de Proyectos](RA3/ACTIVIDAD/menu.png)
