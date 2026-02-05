@@ -4,7 +4,7 @@
 ## 👤 Sobre Mí & Menú de Proyectos
 
 ## 📌 Descripción
-Este proyecto corresponde al resultado del **RA4**, donde se desarrolló un sitio web personal utilizando **HTML y CSS**.  
+Este proyecto corresponde al resultado del **RA3**, donde se desarrolló un sitio web personal utilizando **HTML y CSS**.  
 El sitio incluye una sección **Sobre Mí**, donde se presenta información personal básica, y un **Menú de Proyectos** que permite acceder a distintas actividades realizadas durante el módulo de Desarrollo Web.Tambien estan las imagenes de la tarea 1 de RA3
 
 El diseño fue trabajado con estilos CSS para lograr una apariencia moderna, organizada y visualmente atractiva.
@@ -49,7 +49,7 @@ A continuación se muestran algunas capturas del funcionamiento del sitio:
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
 
 ### Ejercicio 4
-![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/Tabla.png)
+![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/tablaimg.png)
 
 ### Ejercicio 5
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
