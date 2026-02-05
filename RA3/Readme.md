@@ -46,7 +46,7 @@ A continuación se muestran algunas capturas del funcionamiento del sitio:
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/Datos.png)
 
 ### Ejercicio 3
-![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
+![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/ejercicio3.png)
 
 ### Ejercicio 4
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/tablaimg.png)
