@@ -52,7 +52,7 @@ A continuación se muestran algunas capturas del funcionamiento del sitio:
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/tablaimg.png)
 
 ### Ejercicio 5
-![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
+![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/sobremisincss.png)
 
 ### Ejercicio 6
 ![Menu de Proyectos](RA3/ACTIVIDAD/Imagenesdeuso/menudeproyectos.png)
